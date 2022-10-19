@@ -1,0 +1,11 @@
+.main {
+	@apply flex flex-wrap;
+
+	.content {
+		width: 80%;
+
+		.wrapper {
+			@apply pl-6 pr-8;
+		}
+	}
+}
